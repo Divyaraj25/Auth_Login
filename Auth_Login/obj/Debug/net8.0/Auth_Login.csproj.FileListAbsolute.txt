@@ -1,0 +1,388 @@
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\appsettings.Development.json
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\appsettings.json
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Auth_Login.staticwebassets.runtime.json
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Auth_Login.exe
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Auth_Login.deps.json
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Auth_Login.runtimeconfig.json
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Auth_Login.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Auth_Login.pdb
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Azure.Core.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Azure.Identity.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Humanizer.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.CodeDom.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.csproj.AssemblyReference.cache
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.AssemblyInfoInputs.cache
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.AssemblyInfo.cs
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.csproj.CoreCompileInputs.cache
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.MvcApplicationPartsAssemblyInfo.cache
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.RazorAssemblyInfo.cache
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.RazorAssemblyInfo.cs
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets.development.json
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets\msbuild.Auth_Login.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets\msbuild.build.Auth_Login.props
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Auth_Login.props
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Auth_Login.props
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\scopedcss\bundle\Auth_Login.styles.css
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\scopedcss\projectbundle\Auth_Login.bundle.scp.css
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.csproj.Up2Date
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\refint\Auth_Login.dll
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.pdb
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.genruntimeconfig.cache
+D:\Sem 6\.net\Auth_Login\Auth_Login\obj\Debug\net8.0\ref\Auth_Login.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\appsettings.Development.json
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\appsettings.json
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Auth_Login.staticwebassets.runtime.json
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Auth_Login.exe
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Auth_Login.deps.json
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Auth_Login.runtimeconfig.json
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Auth_Login.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Auth_Login.pdb
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Azure.Core.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Azure.Identity.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Humanizer.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Build.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\NuGet.Common.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.CodeDom.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Auth_Login\Auth_Login\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.csproj.AssemblyReference.cache
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.GeneratedMSBuildEditorConfig.editorconfig
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.AssemblyInfoInputs.cache
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.AssemblyInfo.cs
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.csproj.CoreCompileInputs.cache
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.MvcApplicationPartsAssemblyInfo.cache
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.RazorAssemblyInfo.cache
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.RazorAssemblyInfo.cs
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets.build.json
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets.development.json
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets\msbuild.Auth_Login.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets\msbuild.build.Auth_Login.props
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Auth_Login.props
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Auth_Login.props
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\scopedcss\bundle\Auth_Login.styles.css
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\scopedcss\projectbundle\Auth_Login.bundle.scp.css
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.csproj.Up2Date
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.dll
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\refint\Auth_Login.dll
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.pdb
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\Auth_Login.genruntimeconfig.cache
+E:\Auth_Login\Auth_Login\obj\Debug\net8.0\ref\Auth_Login.dll
